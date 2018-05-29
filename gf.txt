@@ -3,4 +3,4 @@ Hello! git.
 [develop-modify-01] for tag 1.0
 [develop-modify-02] for tag 1.0
 [hotfixes] Severe bug fixed for production: hotfix 0.2
-[develop-modify-03] for Pull Request
+[develop-modify-03] for Pull Request [add detail]
