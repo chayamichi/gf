@@ -4,3 +4,5 @@ Hello! git.
 [develop-modify-02] for tag 1.0
 [hotfixes] Severe bug fixed for production: hotfix 0.2
 [develop-modify-03] for Pull Request [add detail]
+[release] Start of release branch for 1.0
+[release] only bugfix! for 1.0
